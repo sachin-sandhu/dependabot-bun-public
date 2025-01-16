@@ -1,0 +1,21 @@
+{
+  "name": "minimal-dependabot-bun",
+  "version": "1.0.0",
+  "description": "A minimal repository for testing Dependabot updates using the bun package manager.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
