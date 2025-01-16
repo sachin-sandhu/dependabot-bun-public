@@ -1,2 +1,1 @@
-# dependabot-bun
-A minimal repository for testing Dependabot updates using the bun package manager
+This repository is empty. Any task executed on it should be considered a new capability and needs to be created.
