@@ -14,7 +14,7 @@ The purpose of this repository is to provide a minimal setup for testing Dependa
    ```yaml
    version: 2
    updates:
-     - package-ecosystem: "npm_and_yarn"
+     - package-ecosystem: "npm"
        directory: "/"
        schedule:
          interval: "daily"
